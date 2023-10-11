@@ -24,5 +24,5 @@ The data source for this project comes from Mockaroo, a data generator useful fo
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](Pymaceuticals/data) within this repo.    
-3. Jupyter Notebook script and analysis text are being kept [here]([Pymaceuticals](https://github.com/kkosek-dev/Pymaceuticals-Quantitative-Analysis/tree/417a6750b45b0b000be5b4ae533f6164950c035b/Pymaceuticals)https://github.com/kkosek-dev/Pymaceuticals-Quantitative-Analysis/tree/417a6750b45b0b000be5b4ae533f6164950c035b/Pymaceuticals).
+3. Jupyter Notebook script and analysis text are being kept [here](Pymaceuticals).
    
