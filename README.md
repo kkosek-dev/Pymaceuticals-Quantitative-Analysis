@@ -18,7 +18,7 @@ The purpose of this project is to conduct a quantitative analysis of the data co
 * Matplotlib
 
 ## Project Description
-The data source for this project comes from Mockaroo, a data generator useful for demoing new software. This limits the data analysis to entirely hypothetical for the arbitrary pharmaceutical company of Pymaceuticals Inc.; although, the drug of interest Capomulin shows significant potential for treatment of SCC. The primary statistical methods used in the project could be applied to any clincal study for effectiveness of drug treatment with data that is uniquely identifiable and produce quantitative analyses of statistical significance. 
+The data source for this project comes from Mockaroo, a data generator useful for demoing new software. This limits the data analysis to entirely hypothetical for the arbitrary pharmaceutical company of Pymaceuticals Inc.; although, the drug of interest Capomulin shows significant potential for treatment of SCC. The primary statistical methods used in the project could be applied to any clincal study analyzing the effectiveness of drug treatment with data that is uniquely identifiable and produce quantitative analyses of statistical significance. 
 
 ## Getting Started
 
